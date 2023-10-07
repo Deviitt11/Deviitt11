@@ -6,6 +6,14 @@ Estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicacione
 
 Skills: Java / Python
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Java, Python, HTML & CSS 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deviitt11)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deviitt11)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deviitt11)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deviitt11&show_icons=true)  
+
+
