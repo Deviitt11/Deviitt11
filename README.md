@@ -10,7 +10,7 @@ Skills: Java / Python
 - 🌱 I’m currently learning Java, Python, HTML & CSS 
 
 <!-- Github Link -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deviitt11)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/deviitt11)  
 <!-- Lenguajes más usados -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deviitt11)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Github stats -->
