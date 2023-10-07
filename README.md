@@ -4,8 +4,11 @@
 
 Estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Para expandir mis conocimientos, a menudo realizo cursos online e intento buscar todo tipo de recursos que puedan serme de utilidad a la hora de seguir formándome y continuar aprendiendo. Por ello, he decidido que una gran manera de reflejar y monitorizar mi aprendizaje es creando este portfolio, donde iré colgando los diferentes programas y proyectos que realice. 
 
-Skills: Java / Python
+## Skills y Experiencia
+* ☕ Java
+* 🐍 Python
 
+# Actualmente
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java, Python, HTML & CSS 
 
