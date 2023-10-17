@@ -1,8 +1,8 @@
-Cálculo del area de un rectángulo
+# Cálculo del area de un rectángulo
 
-El programa pide al usuario que introduzca el ancho y largo de dicho rectángulo
+# El programa pide al usuario que introduzca el ancho y largo de dicho rectángulo
 
-Con la función area, que toma el ancho y largo como argumentos, se calcula y devuelve el area
+# Con la función area, que toma el ancho y largo como argumentos, se calcula y devuelve el area
 
 # Defino la función area (ancho y largo como argumentos)
 def area(x, y):
