@@ -39,6 +39,7 @@ Estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicacione
 
 <!-- Contador de visitas -->
 <p align="center"> 
+  <br>
   Visualizaciones <br>
   <img src="https://profile-counter.glitch.me/Deviitt11/count.svg" />
 </p>
