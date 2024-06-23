@@ -12,7 +12,7 @@ Estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicacione
 
 ## Actualmente
 - 🔭 El desarrollo de esta página está en continuo proceso.
-- 🌱 Estoy aprendiendo Java, Python, HTML, CSS, SQL, JavaScript.
+- 🌱 Estoy aprendiendo Java, Python, HTML, CSS, SQL y JavaScript, entre otros lenguajes.
 
 <!-- Github Link -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/deviitt11)  
