@@ -18,6 +18,6 @@ Estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicacione
 <!-- Lenguajes más usados -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deviitt11&layout=donut)](https://github.com/Deviitt11/github-readme-stats)
 <!-- Github stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deviitt11&show_icons=true&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deviitt11&show_icons=true&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500&rank_icon=github)  
 
 
