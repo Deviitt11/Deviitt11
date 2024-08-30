@@ -24,7 +24,7 @@ Estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicacione
 <!-- Alinear tarjetas -->
 <!-- Github stats -->
 <a href="https://github.com/Deviitt11/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deviitt11&layout=compact&langs_count=10&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deviitt11&layout=compact&langs_count=10&card_width=320&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500" />
 </a>
 <!-- Lenguajes más usados -->
 <a href="https://github.com/Deviitt11/github-readme-stats">
