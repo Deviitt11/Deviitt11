@@ -30,8 +30,8 @@ Estoy cursando un Ciclo Formativo de Grado Superior en Desarrollo de Aplicacione
 
   <h2>Actualmente</h2>
   <ul>
-    <li>🔭 El desarrollo de esta página está en continuo proceso.</li>
-    <li>🌱 Estoy aprendiendo Java, Python, HTML, CSS, SQL y JavaScript, entre otros lenguajes.</li>
+    <li style="text-decoration: none;">🔭 El desarrollo de esta página está en continuo proceso.</li>
+    <li style="text-decoration: none;">🌱 Estoy aprendiendo Java, Python, HTML, CSS, SQL y JavaScript, entre otros lenguajes.</li>
   </ul>
 
   <a href="https://github.com/Deviitt11/convoychat">
