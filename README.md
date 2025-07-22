@@ -34,7 +34,12 @@
   <p></p>
 
   <a href="https://github.com/Deviitt11/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deviitt11&layout=compact&langs_count=6&card_width=320&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500" />
+    <img 
+      height=200 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"
+      alt="Top Languages"
+    />
   </a>
 
 </div>
