@@ -37,7 +37,7 @@
     <img 
       height=200 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviitt11&layout=compact&hide_progress=truecard_width=320&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500"
       alt="Top Languages"
     />
   </a>
