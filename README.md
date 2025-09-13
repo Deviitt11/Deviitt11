@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Junior Developer</h2>
+  <h2>Mobile Developer</h2>
 
   <p>
       <a href="https://www.linkedin.com/in/davidcb11">
