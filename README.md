@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
   <p></p>
 
@@ -32,7 +32,7 @@
     <img 
       height=200 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviitt11&layout=compact&hide_progress=truecard_width=320&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviitt11&layout=compact&hide_progress=true&card_width=320&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500"
       alt="Top Languages"
     />
   </a>
