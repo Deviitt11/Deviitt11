@@ -29,7 +29,7 @@
   <p></p>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviitt11&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deviitt11&layout=compact&theme=dark"
     alt="Top Languages"
   />
   <!--
