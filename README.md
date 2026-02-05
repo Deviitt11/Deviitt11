@@ -28,14 +28,20 @@
 
   <p></p>
 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviitt11&layout=compact&theme=dark"
+    alt="Top Languages"
+  />
+  <!--
   <a href="https://github.com/Deviitt11/convoychat">
     <img 
       height=200 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviitt11&layout=compact&hide_progress=true&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deviitt11&layout=compact&hide_progress=true&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500"
       alt="Top Languages"
     />
   </a>
+  ->
 
 </div>
 
