@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Mobile Developer</h2>
+  <h2>Mobile & BackendDeveloper</h2>
 
   <p>
       <a href="https://www.linkedin.com/in/davidcb11">
@@ -32,7 +32,7 @@
     <img 
       height=200 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviitt11&layout=compact&hide_progress=true&card_width=320&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviitt11&layout=compact&hide_progress=true&theme=dark&title_color=ffa500&text_color=ffffff&icon_color=ffa500&border_color=ffa500"
       alt="Top Languages"
     />
   </a>
